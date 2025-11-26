@@ -1,0 +1,14 @@
+Lyapunov Exponent Analysis
+==================================================
+
+Parameters:
+  r (growth parameter) = 3.8
+  ε (coupling strength) = 0.5
+  Grid size = 50×50
+  Steps = 1000 (transient = 200)
+
+Result:
+  λ = 0.236142
+
+Interpretation: CHAOTIC (λ > 0)
+The system exhibits sensitive dependence on initial conditions.
