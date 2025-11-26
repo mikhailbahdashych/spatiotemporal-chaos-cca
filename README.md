@@ -1,9 +1,4 @@
-# Laboratory Report: Investigation of Spatiotemporal Chaos in Continuous Cellular Automata
-
-- **Course:** ISZ
-- **Author:** Mikhail Bahdashych
-
----
+# Investigation of Spatiotemporal Chaos in Continuous Cellular Automata
 
 ## 1. Introduction
 
